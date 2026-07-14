@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" />
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Hii,+I'm+Saiteja+%F0%9F%91%8B;Backend+Developer+%40+Starbuzz.ai;Building+with+NestJS+%2B+PostgreSQL;Open+to+opportunities+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=22" />
 
 </div>

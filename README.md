@@ -6,12 +6,12 @@
 
 ### 🧑‍💻 A Bit About Me:
 
-- 💼 Backend Developer at **[Starbuzz.ai](https://starbuzz.ai)**, Hyderabad — started as AIML Intern, pivoted into backend
+- 💼 Backend Developer at **[Starbuzz.ai](https://starbuzz.ai)**, Hyderabad — building and scaling backend systems for a creator marketplace platform
 - 🛠️ Core stack: **NestJS · Node.js · PostgreSQL · Prisma**
-- 📦 Published [`wl-tracker-cli`](https://www.npmjs.com/package/wl-tracker-cli) — CLI-first engineering work journal used daily by my team
-- 🎓 B.Tech ECE, Sri Indu College of Engineering & Technology (2020–2024)
-- 🌱 Currently sharpening DSA, system design, and backend fundamentals from the ground up
-- ⚡ Building an AI-powered ticketing system with real-time WebSocket updates + Gemini triage
+- 📦 Published [`wl-tracker-cli`](https://www.npmjs.com/package/wl-tracker-cli) — CLI-first engineering work journal running in daily production use across my team
+- 🏗️ Led backend rebuild from Express → NestJS, designed multi-tenant architecture, shipped OAuth 2.1 MCP server integration
+- ⚡ Building an AI-powered ticketing platform — NestJS, WebSockets, optimistic locking, Gemini-based triage
+- 🎓 B.Tech ECE, Sri Indu College of Engineering & Technology
 
 ---
 
